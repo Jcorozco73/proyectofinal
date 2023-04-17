@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../Javascript iniciacion"
+		},
+		{
+			"path": "../Js proyecto coder"
+		},
+		{
+			"path": "../Arrays"
+		},
+		{
+			"path": "../ObjetosJs"
+		},
+		{
+			"path": "../Funciones"
+		},
+		{
+			"path": "../Estructuras de control"
+		},
+		{
+			"path": "../Array Methods"
+		},
+		{
+			"path": "../08-arquitectura"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../PROYECTO CODERJC"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "POYECTO FINAL JS"
+	}
+}
