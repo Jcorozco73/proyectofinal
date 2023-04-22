@@ -98,7 +98,7 @@ llamarEventListeners()
 
 function llamarEventListeners() {
        // Cuando agregas un producto pulsando agregar carrito
-       listaProductos.addEventListener("click", agregarCarrito)
+       listaProductos.addEventListener("click", agregarProducto)
 
        //Elimina productos del carrito
 
